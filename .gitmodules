@@ -1,0 +1,8 @@
+[submodule "idm-fluidos-aries-framework-go"]
+	path = idm-fluidos-aries-framework-go
+	url = https://github.com/fluidos-project/idm-fluidos-aries-framework-go.git
+	branch = main
+[submodule "node"]
+	path = node
+	url = https://github.com/fluidos-project/node.git
+	branch = main
